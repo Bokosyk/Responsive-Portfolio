@@ -1,0 +1,15 @@
+html {
+   background-image: linear-gradient(to bottom, rgb(255,255,255, 0.52), rgb(0,255,255, 0.23)),
+ url(https://cdn.shopify.com/s/files/1/0533/2089/files/5-websites-to-download-free-subtle-textures-subtle.jpg?5724472906039650661);
+  background-color: #353839;
+  height: auto;
+  z-index: 1;
+  padding-top: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+} 
+/* Allows for a background image to be set  */
+
+html, body { margin: 0; padding: 0; } /*RESETS CSS*/
