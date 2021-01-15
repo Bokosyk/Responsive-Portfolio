@@ -14,7 +14,7 @@ html {
 
 html, body { margin: 0; padding: 0; } /*RESETS CSS*/
 
-/* About Us CARD BODY */
+/* ABOUT US CARD BODY */
 .container {
   margin-left: 0px;
 }
@@ -24,8 +24,28 @@ img {
   margin: 0px 15px 15px 0px;
 }
 
+h5 {
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  text-align: center;
+}
+.navbar-brand {
+  font-family: Montserrat, sans-serif;
+}
+
 p {
 font-size: 20px;
+font-family: Montserrat, sans-serif;
+}
+
+footer {
+  margin: 100px 0px 0px 0px;
+  background-color: #353839;
+  height: 25vh;
+  width: 100%;
+  color: white;
+  text-align: center;
+
 }
 
 /* SOCIAL MEDIA BUTTONS */
